@@ -5,4 +5,5 @@ Projeto desenvolvido para efetuar sorteio com numero Aleatórios.
 <br>
 Aqui foi utilizado HTML, CSS E JavaScript.
 <br>
-LINK DISPONIVÉL
+
+<a href="https://tamirisdepaula.github.io/SORTEIO/">VER O PROJETO</a>
